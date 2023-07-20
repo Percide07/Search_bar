@@ -39,6 +39,8 @@ h1 {
     font-size: large;
     text-decoration: none;
     background-color: #023047;
+    width: 100%;
+    color: white;
 }
 .search_bar button {
     background-color: #8ecae6;
