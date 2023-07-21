@@ -4,11 +4,11 @@
 *{
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
 }
 body {
     background-color: #023047;
     font-family: 'Poppins', sans-serif;
-    box-sizing: border-box;
     color: aliceblue;
 }
 .container{
